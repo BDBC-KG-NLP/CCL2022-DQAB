@@ -102,4 +102,4 @@
 - 飞桨比赛页面中的讨论区
 - 比赛QQ群
 
-<div align=left><img src="./image/README/CCL2022比赛交流群.jpg" alt="img" width=320" /></div>
+<div align=left><img src="./image/README/CCL2022比赛交流群.jpg" alt="img" width=200" /></div>
