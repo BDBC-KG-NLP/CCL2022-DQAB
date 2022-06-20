@@ -75,7 +75,7 @@
 
 该测评任务将在[百度飞桨平台](https://aistudio.baidu.com/)中发布，届时参赛者可在该平台中注册报名比赛，并提交模型测试代码，实时查看该任务当前测评榜单，每个团队每天限提交三次模型代码进行测评。【评测以及榜单将在指定日期开放】
 
-比赛详情页面链接：[CCL2022航旅纵横-领域知识问答测评（UMETRIP-QA）](https://aistudio.baidu.com/aistudio/competition/detail/313/0/introduction)
+比赛详情页面链接：[CCL2022航旅纵横杯-面向领域问答的知识抽取评测（UMETRIP-QA）](https://aistudio.baidu.com/aistudio/competition/detail/313/0/introduction)
 
 # 5 奖项设置
 
